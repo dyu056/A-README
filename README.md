@@ -8,3 +8,4 @@ But my work isn't confined to space. On the ground, I'm delving into the world o
 
 So, if you wish to know more about me, please direct yourself to the Wiki of this repo, where all my projects are listed there :D
 
+Also please check out my CV that is in the repo!!!!
